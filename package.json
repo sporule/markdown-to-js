@@ -1,6 +1,6 @@
 {
   "name": "markdown-to-js-webpack-plugin",
-  "version": "0.2.0",
+  "version": "0.0.1",
   "description": "Markdown to js Plugin - Merge Markdown files to a single file",
   "author": "Sporule.com",
   "keywords": [
